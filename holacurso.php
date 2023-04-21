@@ -8,6 +8,6 @@
 </head>
 <body>
   <h1>¡¡Hola Curso!!</h1>
-  <h2>Choices¿Como estan?</2>
+  <h2>¿Como estan?</2>
 </body>
 </html>
